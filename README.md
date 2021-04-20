@@ -1,4 +1,8 @@
 # Caring-Circle
+
+www.caringcircle.com
+
+
 Webpage that includes a detailed description of our design submission to Innovation Jam Hackathon - Hackworks.
 
 We focused on User Research, User Testing, and multiple rapid prototype iterations to vaidate our product. As a result we propose a solution to the brief that aligns with what users want, and can be easily integrated into their daily life.
