@@ -1,6 +1,6 @@
 # Caring-Circle
 
-www.caringcircle.com
+www.caringcircle.app
 
 
 Webpage that includes a detailed description of our design submission to Innovation Jam Hackathon - Hackworks.
