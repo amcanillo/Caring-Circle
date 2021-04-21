@@ -15,7 +15,12 @@ Our high fidelity prototypes were created on ProtoPie.
 Our webpage was built using HTML & CSS. 
 
 
+
+
 INSTRUCTIONS: For intended experience, please download ProtoPie Player on your mobile. Then scan the QR code via this link to access the high fidelity prototype. https://cloud.protopie.io/p/923a8b8ea5
+
+
+
 
 
 LINKS TO SUPPORTING DOCUMENTS
